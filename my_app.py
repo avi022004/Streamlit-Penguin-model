@@ -36,7 +36,7 @@ st.audio(audio_bytes, format = "audio/mp3")
 
 # Making button
 if st.button("Play"):
-   st.text("Apple is red in color. It is very healdy fruit")
+   st.text("Apple :apple: is red in color. It is very healdy fruit")
 if st.button("Run"):
     st.subheader("Enjoy music !")
     st.video("https://www.youtube.com/watch?v=hOHKltAiKXQ")
