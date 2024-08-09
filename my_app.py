@@ -41,8 +41,8 @@ if st.button("Run"):
     st.subheader("Enjoy music !")
     st.video("https://www.youtube.com/watch?v=hOHKltAiKXQ")
 
-if st.checkbox("box"):
-    st.video("https://www.youtube.com/results?search_query=why+this+kolaveri+di")
+if st.checkbox("Box"):
+    st.video("https://www.youtube.com/watch?v=YR12Z8f1Dh8")
  
  #09-08-2024  
    
