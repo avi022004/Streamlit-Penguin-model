@@ -54,6 +54,7 @@ else:
 
 
 city = st.sidebar.selectbox("Your City", ["Daman", "Diu", "Valsad"])
+st.title("Please first select in sidebar")
 if city == "Daman":
      st.info("Daman is looking like mine Goa.")
 elif city == "Diu":
