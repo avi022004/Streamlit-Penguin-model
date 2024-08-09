@@ -64,7 +64,7 @@ else:
 
 occupation = st.sidebar.multiselect("Your Occupation", ["Programmer", "Data Scientist", "ITConsultant", "DBA"])
 
-st.title("input a number using st.number_input")
+st.title("Input a number using st.number_input")
 age = st.number_input("how old are you",1)
 
 st.title("It will use when we need to write long text")
